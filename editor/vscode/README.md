@@ -6,9 +6,9 @@ FlowMap is a graph-based review tool for Swift projects. It helps you inspect AI
 
 AI coding tools can produce changes that look plausible in a text diff while quietly breaking call relationships or moving logic into the wrong place. FlowMap adds a visual review layer so you can catch those structural mistakes faster.
 
-Repository: https://github.com/adgk2349/FlowMap-AI_Code_Hallucination_Guard_for_Swift
+Repository: https://github.com/adgk2349/FlowMap
 
-Issues: https://github.com/adgk2349/FlowMap-AI_Code_Hallucination_Guard_for_Swift/issues
+Issues: https://github.com/adgk2349/FlowMap/issues
 
 ## What's New in 0.1.3
 
